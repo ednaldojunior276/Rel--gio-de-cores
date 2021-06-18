@@ -1,0 +1,26 @@
+#container{
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    box-shadow: 1px 2px 3px;
+    padding: 10px;
+    top: 200px;
+    left: 40%;
+}
+
+h1{
+    text-align: center;
+    color:black;
+
+}
+
+#res{
+    text-align: center;
+    font-size: 30pt;
+    font-family: fantasy;
+    text-decoration: forestgreen;
+}
+#rodape{
+    text-align: center;
+
+}
